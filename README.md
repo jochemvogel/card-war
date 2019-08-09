@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-<a href="https://jochemvogel.nl.nl/"><img src="https://i.ibb.co/GnCPQzN/CardWar.png" height= 120 width=120/ align="right"></a>
+<a href="https://jochemvogel.nl/"><img src="https://i.ibb.co/GnCPQzN/CardWar.png" height= 120 width=120/ align="right"></a>
 
 Card War is a very basic, but fun game. It looks like a gamble game. You play against the computer and every round new random cards will appear. The one who with the highest card wins the round. The first one who've reached the 10 points wins the game.
 
