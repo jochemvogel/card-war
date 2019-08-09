@@ -9,3 +9,6 @@ Card War is a very basic, but fun game. It looks like a gamble game. You play ag
 ## References
 
 I've followed some tutorials on the YouTube channel of <a href="https://www.youtube.com/watch?v=2CsFQZBKGT8" target="_blank"> CodeWithChris </a>. He made this app as example, but it didn't work that good. I've added some extra features and I'll probably add some more in the future.
+
+## Screenshot
+<img src="https://i.ibb.co/jgNdcjG/Screenshot-2019-08-09-at-14-05-05.png" height=500>
